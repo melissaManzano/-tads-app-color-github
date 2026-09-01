@@ -13,7 +13,7 @@ Campus Pachuca
   
   
 
-Instalación de herramientas (parte 1) y Clase 4 - Publicación colaborativa de código fuente (parte 2)
+Clase 4 - Publicación colaborativa de código fuente (parte 2)
 
   
   
